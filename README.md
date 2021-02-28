@@ -1,11 +1,13 @@
 ### Welcome everybody! <img src="https://github.com/giulianopenido/giulianopenido/assets/img/hi.gif" width="30px">
 
-I am a software developer living in Belo Horizonte, Brazil <span>&#x1f1e7;&#x1f1f7;</span> I am graduating in Computer Science in UFMG
+I am a software developer living in Belo Horizonte, Brazil.
+
+I am graduating in Computer Science at UFMG
 
 
 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianopenido&hide=html&layout=compact&theme=highcontrast" />
 
-###Technologies and skills
+### Technologies and skills
 https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white
 
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
@@ -19,9 +21,7 @@ https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColo
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 
 
-
-
-Onde me encontrar? :mag:
+#### Onde me encontrar? :mag:
 
 <a href="https://www.linkedin.com/in/giulianopenido"><img src="https://github.com/giulianopenido/giulianopenido/assets/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
 
