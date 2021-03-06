@@ -25,7 +25,7 @@
 
 <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=giulianopenido&hide=html&layout=compact&theme=slateorange" />
 
-#### Onde me encontrar? :mag:
+#### Where to find me? :mag:
 
 <a href="https://www.linkedin.com/in/giulianopenido"><img src="https://github.com/giulianopenido/giulianopenido/blob/main/assets/img/linkedin.png" width="16"></img></a> [LinkedIn](https://www.linkedin.com/in/seu_usuário)  
 
