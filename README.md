@@ -6,9 +6,9 @@
 
 <p>I am a software developer living in Belo Horizonte, Brazil.</p>
 
-<p>I am graduating in Computer Science at UFMG</p>
+<p>Graduating in Computer Science at UFMG</p>
 
-<p>Currently working as a front-end developer</p>
+<p>Currently working as full-stack developer</p>
 
 
 ### Technologies and skills
